@@ -61,7 +61,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://i.imgur.com/rmSEvCt.gif)
+[Video Walkthrough](https://imgur.com/a/rmSEvCt.gif)
 
 GIF created with [your tool here]
 
