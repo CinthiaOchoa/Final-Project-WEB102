@@ -1,0 +1,37 @@
+.form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form input,
+.form textarea {
+  width: 100%;
+  padding: 12px 15px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  font-family: inherit;
+}
+
+.form button {
+  width: 100%;
+  padding: 12px;
+  background-color: #007bff;
+  border-radius: 8px;
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: #0056b3;
+}
+
+.success-msg {
+  color: green;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}

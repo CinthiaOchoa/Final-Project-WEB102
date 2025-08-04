@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import { supabase } from '../supabase'
-
+import '../css/EditPost.css'
 export default function EditPost() {
   const { id } = useParams()
   const [title, setTitle] = useState('')
